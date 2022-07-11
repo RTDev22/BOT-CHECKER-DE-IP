@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "async": "^3.2.2",
+    "axios": "^0.27.2",
+    "discord.js": "^13.8.0",
+    "firstline": "^2.0.2",
+    "fs": "^0.0.1-security",
+    "line-reader": "^0.4.0",
+    "os": "^0.1.2",
+    "randomstring": "^1.2.2",
+    "simpl.db": "^2.8.1"
+  }
+}
